@@ -1,0 +1,13 @@
+2020-05-07 19:45:06.644:采集噪声图片文件：G:\PLC上位机\代码工程\NewPlcUtils_20200506\金朋硬件测试软件\bin\x86\Release\ForAutoAdaDump\ada_dump\dump_data_log_20200507_19_44_19\10dB_20200507_19_45_05.png
+2020-05-07 19:45:39.598:采集噪声图片文件：G:\PLC上位机\代码工程\NewPlcUtils_20200506\金朋硬件测试软件\bin\x86\Release\ForAutoAdaDump\ada_dump\dump_data_log_20200507_19_45_06\10dB_20200507_19_45_38.png
+2020-05-07 19:46:12.632:采集噪声图片文件：G:\PLC上位机\代码工程\NewPlcUtils_20200506\金朋硬件测试软件\bin\x86\Release\ForAutoAdaDump\ada_dump\dump_data_log_20200507_19_45_39\10dB_20200507_19_46_11.png
+2020-05-07 19:46:45.688:采集噪声图片文件：G:\PLC上位机\代码工程\NewPlcUtils_20200506\金朋硬件测试软件\bin\x86\Release\ForAutoAdaDump\ada_dump\dump_data_log_20200507_19_46_12\10dB_20200507_19_46_45.png
+2020-05-07 19:50:36.418:采集噪声图片文件：G:\PLC上位机\代码工程\NewPlcUtils_20200506\金朋硬件测试软件\bin\x86\Release\ForAutoAdaDump\ada_dump\dump_data_log_20200507_19_49_49\10dB_20200507_19_50_35.png
+2020-05-07 19:51:09.427:采集噪声图片文件：G:\PLC上位机\代码工程\NewPlcUtils_20200506\金朋硬件测试软件\bin\x86\Release\ForAutoAdaDump\ada_dump\dump_data_log_20200507_19_50_36\10dB_20200507_19_51_08.png
+2020-05-07 19:51:42.394:采集噪声图片文件：G:\PLC上位机\代码工程\NewPlcUtils_20200506\金朋硬件测试软件\bin\x86\Release\ForAutoAdaDump\ada_dump\dump_data_log_20200507_19_51_09\10dB_20200507_19_51_41.png
+2020-05-07 19:52:15.437:采集噪声图片文件：G:\PLC上位机\代码工程\NewPlcUtils_20200506\金朋硬件测试软件\bin\x86\Release\ForAutoAdaDump\ada_dump\dump_data_log_20200507_19_51_42\10dB_20200507_19_52_14.png
+2020-05-07 19:52:48.461:采集噪声图片文件：G:\PLC上位机\代码工程\NewPlcUtils_20200506\金朋硬件测试软件\bin\x86\Release\ForAutoAdaDump\ada_dump\dump_data_log_20200507_19_52_15\10dB_20200507_19_52_47.png
+2020-05-07 19:53:21.429:采集噪声图片文件：G:\PLC上位机\代码工程\NewPlcUtils_20200506\金朋硬件测试软件\bin\x86\Release\ForAutoAdaDump\ada_dump\dump_data_log_20200507_19_52_48\10dB_20200507_19_53_20.png
+2020-05-07 19:53:54.409:采集噪声图片文件：G:\PLC上位机\代码工程\NewPlcUtils_20200506\金朋硬件测试软件\bin\x86\Release\ForAutoAdaDump\ada_dump\dump_data_log_20200507_19_53_21\10dB_20200507_19_53_53.png
+2020-05-07 19:54:27.442:采集噪声图片文件：G:\PLC上位机\代码工程\NewPlcUtils_20200506\金朋硬件测试软件\bin\x86\Release\ForAutoAdaDump\ada_dump\dump_data_log_20200507_19_53_54\10dB_20200507_19_54_26.png
+2020-05-07 19:55:00.422:采集噪声图片文件：G:\PLC上位机\代码工程\NewPlcUtils_20200506\金朋硬件测试软件\bin\x86\Release\ForAutoAdaDump\ada_dump\dump_data_log_20200507_19_54_27\10dB_20200507_19_54_59.png
